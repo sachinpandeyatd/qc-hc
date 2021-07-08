@@ -6648,7 +6648,8 @@ button.bg-dark:focus {
     padding-bottom: 1rem !important; }
   .pl-md-3,
   .px-md-3 {
-    padding-left: 1rem !important; }
+    padding-left: 1rem !important;
+    font-weight: 500 !important; }
   .p-md-4 {
     padding: 1.5rem !important; }
   .pt-md-4,
@@ -6673,7 +6674,8 @@ button.bg-dark:focus {
     padding-right: 3rem !important; }
   .pb-md-5,
   .py-md-5 {
-    padding-bottom: 3rem !important; }
+    padding-bottom: 3rem !important;
+    font-weight: 500 !important; }
   .pl-md-5,
   .px-md-5 {
     padding-left: 3rem !important; }
@@ -7319,13 +7321,13 @@ h1, h2, h3, h4, h5,
     .ftco-navbar-light .navbar-nav {
       padding: 10px 0; } }
   .ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
-    font-size: 12px;
+    font-size: 18px;
     padding-top: .8rem;
     padding-bottom: .8rem;
     padding-left: 20px;
     padding-right: 20px;
-    color: #3022a2;
-    font-weight: bold;
+    color: #ff0101;
+    font-weight: 500;
     text-transform: uppercase;
     letter-spacing: 1px;
     opacity: 1 !important; }
@@ -8076,8 +8078,8 @@ h1, h2, h3, h4, h5,
 .staff {
   margin-bottom: 60px; }
   .staff .img {
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
